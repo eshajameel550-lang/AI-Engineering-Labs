@@ -1,0 +1,89 @@
+import os
+import time
+from dotenv import load_dotenv
+from google import genai
+from google.genai import types
+
+# ============================================================
+# Environment Variables & Gemini Client Setup
+# ============================================================
+
+load_dotenv()
+
+api_key = os.getenv("GOOGLE_API_KEY")
+
+if not api_key:
+    raise ValueError(
+        "ERROR: GOOGLE_API_KEY environment variable mein nahi mila. Kindly .env file check karein."
+    )
+
+# Gemini Client
+client = genai.Client(api_key=api_key)
+
+MODEL_NAME = "gemini-2.5-flash"
+
+# ============================================================
+# TASK 4: Flipped Interaction (Travel Planner Agent)
+# ============================================================
+
+def run_travel_planner():
+
+    print("\n" + "=" * 60)
+    print("TASK 4: FLIPPED INTERACTION - TRAVEL PLANNER AGENT")
+    print("=" * 60)
+
+    system_instruction = """
+You are an expert Travel Planner Agent.
+
+Your goal is to help the user plan a trip.
+
+Rules:
+1. Do NOT provide the full travel plan immediately.
+2. Ask ONLY ONE clarification question at a time.
+3. Wait for the user's reply.
+4. Continue asking questions until you have enough information.
+5. After collecting enough details, provide a complete travel plan.
+"""
+
+    chat = client.chats.create(
+        model=MODEL_NAME,
+        config=types.GenerateContentConfig(
+            system_instruction=system_instruction
+        )
+    )
+
+    # Conversation Start
+    response = chat.send_message(
+        "Hello! I want to plan a trip."
+    )
+
+    print(f"\nAgent: {response.text.strip()}")
+
+    # Simulated User Replies
+    user_inputs = [
+        "I want to go to Paris, France.",
+        "My budget is around $2500 for a 5-day trip.",
+        "I love historical places and good food."
+    ]
+
+    for user_reply in user_inputs:
+
+        time.sleep(2)
+
+        print(f"\nUser: {user_reply}")
+
+        response = chat.send_message(user_reply)
+
+        print(f"Agent: {response.text.strip()}")
+
+# ============================================================
+# MAIN PROGRAM
+# ============================================================
+
+if __name__ == "__main__":
+
+    print("\n--- Running Task 4: Flipped Interaction ---")
+
+    run_travel_planner()
+
+    print("\nTask 4 Completed Successfully!")

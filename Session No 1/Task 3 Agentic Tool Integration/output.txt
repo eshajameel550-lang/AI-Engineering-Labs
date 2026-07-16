@@ -1,0 +1,24 @@
+[Running] python -u "c:\Users\eshaj\Downloads\AI-Engineering-Labs\task3.py"
+
+--- Running Task 3: Agentic Tool Integration ---
+
+============================================================
+User Message:
+Add 50 and 20
+------------------------------------------------------------
+Agent Response:
+I'm sorry, I wasn't able to add 50 and 20. Please try again.
+============================================================
+
+============================================================
+User Message:
+What is the definition of an AI Agent?
+------------------------------------------------------------
+Agent Response:
+An AI agent is an autonomous entity that perceives its environment through sensors and acts upon that environment using effectors. It's designed to achieve specific goals and can learn and adapt over time. Key characteristics often include autonomy, reactivity, pro-activeness, and social ability.
+============================================================
+
+Task 3 Completed Successfully!
+
+[Done] exited with code=0 in 10.438 seconds
+

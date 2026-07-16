@@ -1,0 +1,45 @@
+[Running] python -u "c:\Users\eshaj\Downloads\AI-Engineering-Labs\task2.py"
+
+--- Running Task 2: Self-Refinement ---
+
+============================================================
+TASK 2: SELF-REFINEMENT LOOP FOR: 'A high-end gaming laptop with RTX 4090'
+============================================================
+
+[STEP 1] ORIGINAL DRAFT
+----------------------------------------
+## Unleash Unrivaled Power: Introducing the [Laptop Model Name] with NVIDIA GeForce RTX 4090
+
+Prepare to redefine your expectations of portable gaming and creation. The **[Laptop Model Name]** stands as the pinnacle of engineering and performance, meticulously crafted for gamers and creators who demand nothing but the absolute best. Powered by the groundbreaking NVIDIA GeForce RTX 4090 Laptop GPU, this machine isn't just a laptop; it's a mobile supercomputer designed to conquer any challenge.
+
+**Unmatched Graphics Performance:**
+At its heart lies the formidable **NVIDIA GeForce RTX 4090 Laptop GPU**, built on the ultra-efficient Ada Lovelace architecture. Experience lifelike virtual worlds rendered with stunning realism thanks to dedicated Ray Tracing Cores, and boost your frame rates to unprecedented levels with NVIDIA DLSS 3, powered by AI. Whether you're exploring vast open worlds in 4K, engaging in competitive esports at extreme refresh rates, or accelerating complex 3D rendering, the RTX 4090 delivers uncompromising performance and breathtaking visual fidelity.
+
+**Beyond Gaming, Into Creation:**
+Paired with the latest generation **[Intel Core i9 / AMD Ryzen 9 - *specify generation if known, e.g., 13th Gen Intel Core i9 or AMD Ryzen 9 7000 Series*]** processor, the [Laptop Model Name] delivers desktop-class performance, annihilating lag and ensuring butter-smooth gameplay and lightning-fast creative workflows. Edit 8K video, render intricate architectural designs, or run demanding AI simulations with unparalleled speed and efficiency. This is a machine built for pioneers.
+
+**Immersive Visuals, Superior Speed:**
+Immerse yourself in breathtaking visuals on the stunning **[Display Size and Type, e.g., 17-inch QHD (2560x1440) IPS display]**. With an ultra-fast **[Refresh Rate, e.g., 240Hz or 360Hz]** refresh rate and **[Response Time, e.g., 3ms or 1ms]** response time, every frame is rendered with razor-sharp clarity and fluid motion. Vibrant colors, deep blacks, and incredible contrast bring your games and projects to life with unparalleled fidelity.
+
+**Engineered for Peak Performance:**
+Beyond raw power, the [Laptop Model Name] is engineered for sustained peak performance. Its advanced thermal design, featuring **[mention specific cooling tech, e.g., a custom vapor chamber, multiple high-efficiency fans, liquid metal thermal compound]**, efficiently dissipates heat, allowing you to push limits without throttling. Encased in a premium, robust chassis, its sleek design belies the immense power within, offering both durability and sophisticated aesthetics.
+
+**Future-Ready Connectivity and Storage:**
+Complementing its formidable core, the [Laptop Model Name] boasts **[Amount]GB of ultra-fast DDR5 RAM** for seamless multitasking and a lightning-fast **[Amount]TB NVMe PCIe Gen 4/5 SSD** for instant load times and ample storage for your entire game library and creative projects. Comprehensive connectivity options, including **[mention USB-C, Thunderbolt 4, HDMI 2.1, Wi-Fi 6E, Bluetooth 5.3]**, ensure you're always connected and ready for battle or collaboration. Experience crystal-clear audio that pulls you deeper into the action, thanks to **[mention audio tech if applicable, e.g., Nahimic 3D Audio]**.
+
+The **[Laptop Model Name]** isn't just a gaming laptop; it's a statement. It�s for those who refuse to compromise on performance, who demand the best in every pixel, every frame, and every challenge. Elevate your game. Master your craft. **Claim your [Laptop Model Name] today and experience the future of portable power.**
+
+---
+
+**Key Features:**
+
+*   **NVIDIA GeForce RTX 4090 Laptop GPU:** The ultimate graphics powerhouse for gaming and creation.
+*   **[Latest Gen Intel Core i9 / AMD Ryzen 9] Processor:** Desktop-class CPU performance.
+*   **[Display Size] QHD/4K [Refresh Rate] Display:** Stunning visuals with lightning-fast refresh rates.
+*   **Up to [Amount]GB DDR5 RAM:** Blazing-fast memory for seamless multitasking.
+*   **Up to [Amount]TB NVMe PCIe Gen 4/5 SSD:** Ultra-rapid storage for instant loading.
+*   **Advanced Thermal Design:** Sustained peak performance with efficient cooling.
+*   **Premium Chassis:** Robust build with sophisticated aesthetics.
+*   **Comprehensive Connectivity:** Wi-Fi 6E, Thunderbolt 4, HDMI 2.1, and more.
+*   **High-Fidelity Audio:** Immersive soundscapes for a truly engaging experience.
+----------------------------------------
