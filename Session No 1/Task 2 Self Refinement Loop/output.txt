@@ -1,5 +1,3 @@
-[Running] python -u "c:\Users\eshaj\Downloads\AI-Engineering-Labs\task2.py"
-
 --- Running Task 2: Self-Refinement ---
 
 ============================================================

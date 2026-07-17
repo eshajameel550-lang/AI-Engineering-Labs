@@ -1,0 +1,7 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language models.
+
+RAG first searches relevant documents from a vector database.
+
+Then the retrieved information is passed to the language model to generate accurate answers.
+
+This approach reduces hallucinations and improves factual responses.

@@ -1,0 +1,35 @@
+============================================================
+Problem 1: What is 15% of 200?
+
+WITHOUT CoT
+30
+
+WITH STEP-BY-STEP
+Step 1: Convert 15% into decimal: 15/100 = 0.15
+Step 2: Multiply 0.15 × 200 = 30
+
+Final Answer: 30
+
+============================================================
+Problem 2: If 5 apples cost 50 rupees, what do 8 apples cost?
+
+WITHOUT CoT
+80 rupees
+
+WITH STEP-BY-STEP
+Step 1: Cost of 1 apple = 50 ÷ 5 = 10 rupees
+Step 2: Cost of 8 apples = 8 × 10 = 80 rupees
+
+Final Answer: 80 rupees
+
+============================================================
+Problem 3: A square has side 6 cm. What is its area?
+
+WITHOUT CoT
+36 cm²
+
+WITH STEP-BY-STEP
+Step 1: Formula of area of a square = side × side
+Step 2: 6 × 6 = 36
+
+Final Answer: 36 cm²

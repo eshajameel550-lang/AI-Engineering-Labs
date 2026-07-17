@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+AI can perform tasks such as learning, reasoning, decision-making, and problem-solving.
+
+AI is used in healthcare, finance, education, robotics, and many other industries.

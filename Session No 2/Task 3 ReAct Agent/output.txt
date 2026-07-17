@@ -1,0 +1,84 @@
+REACT AGENT DEMO
+
+
+============================================================
+GOAL: Find best restaurants in the city
+============================================================
+
+Step 1
+------------------------------
+THOUGHT: I need to complete: Find best restaurants in the city
+ACTION: search_web best restaurants
+Searching: best restaurants
+OBSERVATION: Top Restaurants: Kolachi, Okra, Cafe Flo
+
+Step 2
+------------------------------
+THOUGHT: Based on 'Top Restaurants: Kolachi, Okra, Cafe Flo', I can complete the goal.
+ACTION: search_web best restaurants
+Searching: best restaurants
+OBSERVATION: Top Restaurants: Kolachi, Okra, Cafe Flo
+
+Step 3
+------------------------------
+THOUGHT: Based on 'Top Restaurants: Kolachi, Okra, Cafe Flo', I can complete the goal.
+ACTION: search_web best restaurants
+Searching: best restaurants
+OBSERVATION: Top Restaurants: Kolachi, Okra, Cafe Flo
+
+Step 4
+------------------------------
+THOUGHT: Based on 'Top Restaurants: Kolachi, Okra, Cafe Flo', I can complete the goal.
+ACTION: search_web best restaurants
+Searching: best restaurants
+OBSERVATION: Top Restaurants: Kolachi, Okra, Cafe Flo
+
+FINAL RESULT: Goal Completed
+============================================================
+
+============================================================
+GOAL: Check today's weather
+============================================================
+
+Step 1
+------------------------------
+THOUGHT: I need to complete: Check today's weather
+
+Detecting Location...
+
+ACTION: get_weather Karachi, Pakistan
+
+Weather for Karachi, Pakistan
+
+OBSERVATION: Weather: 32°C Sunny in Karachi, Pakistan
+
+Step 2 ...
+Step 3 ...
+Step 4 ...
+
+FINAL RESULT: Goal Completed
+============================================================
+
+============================================================
+GOAL: Get current time
+============================================================
+
+Step 1
+------------------------------
+THOUGHT: I need to complete: Get current time
+
+ACTION: get_time
+
+Getting Current Time...
+
+OBSERVATION: 09:35 PM
+
+Step 2 ...
+Step 3 ...
+Step 4 ...
+
+FINAL RESULT: Goal Completed
+============================================================
+
+Thought → Action → Observation = ReAct Agent
+

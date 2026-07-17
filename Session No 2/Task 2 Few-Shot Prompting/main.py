@@ -18,7 +18,7 @@ client = genai.Client(api_key=api_key)
 MODEL_NAME = "gemini-2.5-flash"
 
 # ============================================================
-# TASK 2: Modified Few-Shot Prompting
+# TASK 6: Modified Few-Shot Prompting
 # ============================================================
 
 few_shot_prompt = """

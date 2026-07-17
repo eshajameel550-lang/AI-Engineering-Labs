@@ -62,7 +62,7 @@ USER : Hello
 
 Assistant:
 
-Hello! 👋 How can I help you today?
+Hello!  How can I help you today?
 
 ------------------------------------------------------------
 
