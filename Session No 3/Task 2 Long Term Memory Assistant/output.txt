@@ -1,0 +1,53 @@
+============================================================
+LONG TERM MEMORY ASSISTANT
+============================================================
+
+Saving Preferences...
+
+Saving: Mujhe Python pasand hai
+Preference Saved Successfully.
+Saving: Mujhe Coding seekhna pasand hai
+Preference Saved Successfully.
+Saving: Mera favourite topic AI hai
+Preference Saved Successfully.
+Saving: Mera naam Ali hai
+Preference Saved Successfully.
+
+
+============================================================
+MEMORY QUESTIONS
+============================================================
+
+User: Main kya seekhna pasand karta hoon?
+Assistant: Tumhe Python, Coding, aur AI seekhna pasand hai, Ali.
+
+User: Mera naam kya hai?
+Assistant: Tumhara naam Ali hai.
+
+User: Mujhe kaunsa topic pasand hai?
+Assistant: Tumhara favourite topic **AI** hai.
+
+
+============================================================
+INTERACTIVE MODE
+============================================================
+
+You: You: Mera naam kya hai?
+
+Assistant:
+Tumhara naam Ali hai!
+
+You: You: Main kya seekhna pasand karta hoon?
+
+Assistant:
+Ali, aapko coding seekhna pasand hai, khaas kar Python. Aur aapka favourite topic AI hai.
+
+You: Ctrl + C
+
+Assistant:
+Ctrl + C ka matlab hota hai **Copy** karna, Ali!
+
+Mujhe pata hai tumhe coding karna aur Python pasand hai, aur tumhara favorite topic AI bhi hai. Toh jab tum code likhte ho, ya AI ke projects pe kaam karte ho, ya fir research karte ho, tab yeh shortcut kitna kaam aata hoga na? Koi code snippet copy karna ho, ya koi article se important information leni ho, Ctrl + C hi to sabse pehle yaad aata hai!
+
+You: exit
+Goodbye!

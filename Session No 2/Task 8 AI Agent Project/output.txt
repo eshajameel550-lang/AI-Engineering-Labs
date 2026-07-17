@@ -1,0 +1,34 @@
+============================================================
+AI RESUME PARSER
+============================================================
+
+Name: Esha Jameel
+Email: esha@email.com
+Phone: 0300-1234567
+City: Khanewal
+Skills: Python, HTML, CSS, AI, JavaScript
+Experience: Frontend Developer Intern
+Education: Intermediate (ICS)
+
+
+Formatted JSON
+
+{
+    "name": "Esha Jameel",
+    "email": "esha@email.com",
+    "phone": "0300-1234567",
+    "city": "Khanewal",
+    "skills": [
+        "Python",
+        "HTML",
+        "CSS",
+        "AI",
+        "JavaScript"
+    ],
+    "experience": [
+        "Frontend Developer Intern"
+    ],
+    "education": [
+        "Intermediate (ICS)"
+    ]
+}

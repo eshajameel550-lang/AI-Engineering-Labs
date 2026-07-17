@@ -1,0 +1,71 @@
+Interactive Mode
+
+You : Tokyo weather
+
+============================================================
+USER : Tokyo weather
+============================================================
+
+Gemini decided to call the weather tool.
+
+Tool Called : get_weather('Tokyo')
+
+Tool Output : Tokyo: Sunny, 25°C
+
+Assistant:
+
+The current weather in Tokyo is sunny with a pleasant temperature of 25°C. It is a great day to enjoy outdoor activities.
+
+------------------------------------------------------------
+
+You : Is Dubai hot?
+
+============================================================
+USER : Is Dubai hot?
+============================================================
+
+Gemini decided to call the weather tool.
+
+Tool Called : get_weather('Dubai')
+
+Tool Output : Dubai: Sunny, 42°C
+
+Assistant:
+
+Yes, Dubai is currently very hot with a temperature of 42°C and clear sunny weather. Stay hydrated and avoid going outside during peak afternoon hours.
+
+------------------------------------------------------------
+
+You : Lahore weather
+
+============================================================
+USER : Lahore weather
+============================================================
+
+Gemini decided to call the weather tool.
+
+Tool Called : get_weather('Lahore')
+
+Tool Output : Lahore: Smoggy, 30°C
+
+Assistant:
+
+The weather in Lahore is smoggy with a temperature of 30°C. Air quality may not be ideal, so wearing a mask outdoors is recommended.
+
+------------------------------------------------------------
+
+You : Hello
+
+============================================================
+USER : Hello
+============================================================
+
+Assistant:
+
+Hello! 👋 How can I help you today?
+
+------------------------------------------------------------
+
+You : exit
+
+Goodbye!

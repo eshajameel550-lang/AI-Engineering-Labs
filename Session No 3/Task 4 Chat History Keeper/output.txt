@@ -1,0 +1,48 @@
+============================================================
+CHAT HISTORY KEEPER
+============================================================
+
+Assistant: What is your name?
+
+You: Esha
+
+Assistant:
+
+Nice to meet you, Esha! I'll remember your name during our conversation.
+
+------------------------------------------------------------
+
+Assistant: What are you interested in?
+
+You: AI Engineering
+
+Assistant:
+
+That's great, Esha! AI Engineering is an exciting field with many opportunities. I'll remember that you're interested in AI Engineering.
+
+------------------------------------------------------------
+
+Assistant: What is your favourite topic?
+
+You: Agentic AI
+
+Assistant:
+
+Excellent choice! Agentic AI is one of the most interesting areas of Artificial Intelligence. I'll remember that your favourite topic is Agentic AI.
+
+============================================================
+MEMORY TEST
+============================================================
+
+Assistant Summary:
+
+1. User's Name:
+Esha
+
+2. User's Interest:
+AI Engineering
+
+3. User's Favourite Topic:
+Agentic AI
+
+Thank you, Esha! Throughout our conversation I remembered your personal information and used the previous conversation history to answer correctly.

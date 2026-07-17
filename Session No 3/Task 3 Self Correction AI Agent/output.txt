@@ -1,0 +1,41 @@
+============================================================
+SELF CORRECTION AI AGENT
+============================================================
+
+Task:
+
+Write a Python program that:
+
+1. Asks the user:
+
+Enter a number:
+
+2. Converts input into integer
+
+3. Calculates square
+
+4. Prints:
+
+The square of NUMBER is SQUARE
+
+------------------------------------------------------------
+Attempt #1
+------------------------------------------------------------
+
+Generating Code...
+
+number = int(input("Enter a number: "))
+square = number * number
+print(f"The square of {number} is {square}")
+
+Evaluating...
+
+Code Passed Successfully.
+
+============================================================
+FINAL GENERATED CODE
+============================================================
+
+number = int(input("Enter a number: "))
+square = number * number
+print(f"The square of {number} is {square}")

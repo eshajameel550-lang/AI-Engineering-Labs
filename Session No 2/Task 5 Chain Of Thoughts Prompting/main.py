@@ -2,12 +2,20 @@ import os
 from dotenv import load_dotenv
 from google import genai
 
+# ============================================================
+# Environment Variables & Gemini Client Setup
+# ============================================================
+
 # Load API Key
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 
 client = genai.Client(api_key=api_key)
 MODEL_NAME = "gemini-2.5-flash"
+
+# ============================================================
+# TASK 5: Chain Of Thoughts  Prompting
+# ============================================================
 
 # Problems
 problems = [
